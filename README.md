@@ -1,2 +1,2 @@
-# prizescraper
-Scrapes the web for price contests and returns them in a nicely formatted list.
+# Prizescraper
+Scrapes the web for price contests and returns them in a formatted list.
